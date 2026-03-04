@@ -1,0 +1,3 @@
+nom,solde,historique,a_ete_recredite
+yrsdyh,0,"['2026-02-14 11:41 Création compte: 100$', '2026-02-14 11:41 Mise: -100$', '2026-02-14 11:42 Perte: -100$']",False
+touka,0,"['2026-02-14 12:06 Création compte: 100$', '2026-02-14 12:06 Mise: -50$', '2026-02-14 12:06 Double main 1: -100$', '2026-02-14 12:06 Perte: -100$', '2026-02-14 12:07 Recrédit: 100$']",True
